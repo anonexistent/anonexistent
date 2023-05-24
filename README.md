@@ -1,4 +1,5 @@
-### Hi there 👋🇷🇺
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=5000&color=8C00B6&background=3AFF002C&center=true&width=435&separator=%3C&lines=Console.WriteLine(%22Hello%2C+World!%22);)](https://git.io/typing-svg)
+
 
 <!--
 **anonexistent/anonexistent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
